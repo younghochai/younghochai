@@ -1,6 +1,3 @@
-## Contribute your idea to the opensource project
-
-
 ## Visit our repositories and contribute your idea to the opensource project
 ### [motion-matrix](https://github.com/younghochai/motion-matrix)
 
