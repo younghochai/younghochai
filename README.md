@@ -1,16 +1,19 @@
 ## Contribute your idea to the opensource project
 
 
-### motion-matrix
+## Visit our repositories and contribute your idea to the opensource project
+### [motion-matrix](https://github.com/younghochai/motion-matrix)
 
-### GNN-RL-Kinetic-Facade
+### [GNN-RL-Kinetic-Facade](https://github.com/younghochai/GNN-RL-Kinetic-Facade)
 
-### ConductingMotionAuthoring
+### [BodyGestureGenerator](https://github.com/younghochai/BodyGestureGenerator)
 
-### AngleSpace
+### [ConductingMotionAuthoring](https://github.com/younghochai/ConductingMotionAuthoring)
 
-### Metaverse_VElab
+### [AngleSpace](https://github.com/younghochai/AngleSpace)
+
+### [Metaverse_VElab] (https://github.com/younghochai/Metaverse_VElab)
 
 ### [ChoreoTransformer](https://github.com/younghochai/ChoreoTransformer)
 
-### Utility
+### [Utility](https://github.com/younghochai/Utility)
