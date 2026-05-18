@@ -12,7 +12,7 @@
 
 ### [AngleSpace](https://github.com/younghochai/AngleSpace)
 
-### [Metaverse_VElab] (https://github.com/younghochai/Metaverse_VElab)
+### [Metaverse_VElab](https://github.com/younghochai/Metaverse_VElab)
 
 ### [ChoreoTransformer](https://github.com/younghochai/ChoreoTransformer)
 
