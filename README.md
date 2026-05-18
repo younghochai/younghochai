@@ -1,4 +1,4 @@
-## Visit our repositories and contribute your idea to the opensource project
+## Contribute your idea to the opensource project
 
 ### 1. Visit our repositories
 ### [motion-matrix](https://github.com/younghochai/motion-matrix)
