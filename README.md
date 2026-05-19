@@ -1,5 +1,7 @@
 # [Guideline for Contribution]
 - Thank you for contributing to the project of the VE lab at Chung-Ang University, GSAIM (The Graduate School of Advanced Imaging Science, Multimedia & Film).
+
+# Contribution Guide
 ### You can contribute in various ways.
 
 ## [1. Visit our repositories]
