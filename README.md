@@ -7,6 +7,7 @@
 - Please feel free to post your opinions on the issue at any time!
 - Sharing opinions is also a contribution.
 - You can share various opinions in issues and contribute features that need to be added or modified to PRs.
+- You can check the status of papers on the [VE lab page.](https://blog.naver.com/velab)
 
 ## [1. Visit our repositories]
 ### [motion-matrix](https://github.com/younghochai/motion-matrix)
