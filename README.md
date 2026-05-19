@@ -37,15 +37,6 @@
 ## 2. Pull-request Guidance
 - If you are not contributor, please **fork** our repositories first, and then **pull-request** your contributions.
 - The pull-request format is as follows.
-
-### Branch Naming
-
-Create a new branch from `develop` and use one of the following naming formats:
-
-```bash
-feature/<issue-number-or-description>
-fix/<issue-number-or-description>
-refactor/<description>
   
 ### Description
 - Feature description for your code update
