@@ -42,26 +42,26 @@
 
 Briefly describe what this Pull Request does.
 
-Example:
-This PR adds a CSV-based conducting motion playback feature.
+(Example:
+This PR adds a CSV-based conducting motion playback feature.)
 
 ### Changes
 
 List the main changes included in this PR.
 
-Example:
+(Example:
 - Added CSV file loader for conducting motion data
 - Implemented beat pattern playback
-- Added keyboard controls for cue and cut-off gestures
+- Added keyboard controls for cue and cut-off gestures)
 
 ### Test Checklist
 
 Describe how you tested your changes.
 
-Example:
+(Example:
 - [ ] Checked that CSV files are loaded correctly
 - [ ] Verified that the avatar motion plays in Unity
-- [ ] Confirmed that no errors appear in the console
+- [ ] Confirmed that no errors appear in the console)
 
 
 ## 3. Issue
