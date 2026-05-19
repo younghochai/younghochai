@@ -4,13 +4,13 @@
 # Contribution Guide
 ### You can contribute in various ways.
 
-- Please feel free to post your opinions on the issue at any time!
-- Sharing opinions is also a contribution.
-- You can share various opinions in issues and contribute features that need to be added or modified to PRs.
-- You can check the status of papers on the [VE lab page.](https://blog.naver.com/velab)
+- Please feel free to post your opinions on the issue at any time! Sharing opinions is also a contribution.
+- You can check the status of our papers on the [VE lab page.](https://blog.naver.com/velab)
 
 ## 1. Visit our Main Repositories
 ### [motion-matrix](https://github.com/younghochai/motion-matrix)
+- [Motion-sphere](https://www.mdpi.com/2076-3417/10/18/6462), which is a novel trajectory-based visualization technique to represent human motion on a sphere.
+- For detailed installation and usage manual, please refer to [OpenIA_3.0.pdf.](https://github.com/younghochai/motion-matrix/blob/OpenIA-master/OpenIA_3.0.pdf)
 
 ### [GNN-RL-Kinetic-Facade](https://github.com/younghochai/GNN-RL-Kinetic-Facade)
 
@@ -32,3 +32,4 @@
 
 ## 3. Issue
 - If you have any questions or discussion, don't hesitate to share the issue.
+- You can share various opinions in issues and contribute features that need to be added or modified to PRs.
