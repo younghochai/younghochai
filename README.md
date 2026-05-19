@@ -1,6 +1,6 @@
-## Contribute your idea to the opensource project
+# [Guideline for Contribution]
 
-### 1. Visit our repositories
+## [1. Visit our repositories]
 ### [motion-matrix](https://github.com/younghochai/motion-matrix)
 
 ### [GNN-RL-Kinetic-Facade](https://github.com/younghochai/GNN-RL-Kinetic-Facade)
@@ -17,9 +17,9 @@
 
 ### [Utility](https://github.com/younghochai/Utility)
 
-### 2. Fork
+## [2. PR Guidance]
 
-### 3. Pull requests
+- If you are not contributor, please fork our repositories first, and then request your contributions.
 
-### 4. Issue
+## [3. Issue]
 If you have any questions or discussion, don't hesitate to share the issue.
