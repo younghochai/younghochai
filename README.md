@@ -4,9 +4,9 @@
 # Contribution Guide
 ### You can contribute in various ways.
 
-Please feel free to post your opinions on the issue at any time! \n
-Sharing opinions is also a contribution. \n
-You can share various opinions in issues and contribute features that need to be added or modified to PRs. \n
+- Please feel free to post your opinions on the issue at any time!
+- Sharing opinions is also a contribution.
+- You can share various opinions in issues and contribute features that need to be added or modified to PRs.
 
 ## [1. Visit our repositories]
 ### [motion-matrix](https://github.com/younghochai/motion-matrix)
