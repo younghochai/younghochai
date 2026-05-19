@@ -34,9 +34,16 @@
 ### [Utility](https://github.com/younghochai/Utility)
 - It provides various functions for analyzing and editing motion data.
 
-## 2. PR Guidance
-- If you are not contributor, please fork our repositories first, and then request your contributions.
+## 2. Pull-request Guidance
+- If you are not contributor, please **fork** our repositories first, and then **pull-request** your contributions.
+- The pull-request format is as follows.
+  
+### Description
+
+### Changes
+
+### Test Checklist
 
 ## 3. Issue
-- If you have any questions or discussion, don't hesitate to share the issue.
-- You can share various opinions in issues and contribute features that need to be added or modified to PRs.
+- If you have any questions or discussion, don't hesitate to share the **issue**.
+- You can share various opinions in issues and contribute features that need to be added or modified to pull-requests.
