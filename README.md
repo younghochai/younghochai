@@ -17,7 +17,7 @@
 
 ### [ChoreoTransformer](https://github.com/younghochai/ChoreoTransformer)
 - [ChoreoTransformer](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318091&width=1252), which is a motion editor from non-expert mocap data to expert motion.
-- For detailed installation and usage manual, please refer to [ChoreoTransformer Guide.pdf.]
+- For detailed installation and usage manual, please refer to [ChoreoTransformer Guide.pdf.](https://github.com/younghochai/ChoreoTransformer/blob/main/ChoreoTransformer%20Guide.pdf)
 
 ### [BodyGestureGenerator](https://github.com/younghochai/BodyGestureGenerator)
 - BodyGestureGenerator, which is a human body motion authoring tool for generating, visualizing, and editing gesture motions.
